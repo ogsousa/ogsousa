@@ -4,14 +4,12 @@ Construo agentes, automações e aplicações web que conectam APIs, bancos de d
 
 ### Projetos selecionados
 
-| Projeto | Trabalho técnico | Recorte público |
-| :--- | :--- | :--- |
-| [Hearts](https://github.com/ogsousa/hearts) | Prospecção com decisões rastreáveis, idempotência e tratamento de falhas. | Núcleo sanitizado e testes locais. |
-| [Neovian OS](https://github.com/ogsousa/neovian-os) | CRM e operação comercial: leads, pipeline, agenda, clientes e tarefas. | Case técnico e arquitetura. |
-| [Atendimento multiagente](https://github.com/ogsousa/ai-customer-service) | Conversas em WhatsApp e Instagram, agentes especializados e encaminhamento humano. | Arquitetura e limites de integração. |
-| [Automation Workflows](https://github.com/ogsousa/automation-workflows) | Mapeamento, roteamento e tratamento de eventos em automações. | Exemplos derivados, sem credenciais. |
-| [Moreira Veículos](https://github.com/ogsousa/moreira-veiculos) | Catálogo de veículos, gestão de estoque e captação de oportunidades. | Case técnico da aplicação. |
-| [Portfólio](https://github.com/ogsousa/portfolio) | Experiências web, IA e sistemas internos em uma interface própria. | Frontend em Next.js e TypeScript. |
+- **[Hearts](https://github.com/ogsousa/hearts)** — Prospecção, decisões rastreáveis e tratamento de falhas. Núcleo TypeScript sanitizado, demo e testes offline.
+- **[Neovian OS](https://github.com/ogsousa/neovian-os)** — CRM, pipeline, agenda, clientes e tarefas. Case técnico e arquitetura do produto interno.
+- **[Atendimento multiagente](https://github.com/ogsousa/ai-customer-service)** — WhatsApp, Instagram, ferramentas especializadas e encaminhamento humano. Arquitetura e limites de integração.
+- **[Automation Workflows](https://github.com/ogsousa/automation-workflows)** — Classificação de eventos e conteúdo por canal. Exemplos derivados de n8n e testes com dados sintéticos.
+- **[Moreira Veículos](https://github.com/ogsousa/moreira-veiculos)** — Catálogo, gestão de estoque e captação de oportunidades. Case técnico da aplicação.
+- **[Portfólio](https://github.com/ogsousa/portfolio)** — Experiências web, IA e sistemas em uma interface própria. Frontend em Next.js e TypeScript.
 
 ### Tecnologias
 
