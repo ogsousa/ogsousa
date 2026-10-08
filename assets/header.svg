@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="350" viewBox="0 0 1280 350" role="img" aria-labelledby="title desc">
+  <title id="title">Enzo Sousa</title>
+  <desc id="desc">IA, automação e software. Tipografia branca sobre fundo preto, com linhas técnicas discretas.</desc>
+  <rect width="1280" height="350" fill="#080808"/>
+  <g fill="none" stroke="#252525" stroke-width="1">
+    <path d="M48 28v294M1232 28v294M28 54h1224M28 296h1224"/>
+    <path d="M928 54v242M1024 54v242M1120 54v242M928 102h304M928 150h304M928 198h304M928 246h304"/>
+  </g>
+  <g fill="#929292" font-family="'Courier New',monospace" font-size="16" letter-spacing="2">
+    <text x="70" y="38">OGSOUSA / PORTFÓLIO TÉCNICO</text>
+    <text x="1208" y="326" text-anchor="end">BRASÍLIA · BR</text>
+  </g>
+  <text x="64" y="180" fill="#f4f4f4" font-family="Arial,Helvetica,sans-serif" font-size="100" font-weight="900" letter-spacing="-6">ENZO SOUSA</text>
+  <text x="70" y="234" fill="#bdbdbd" font-family="'Courier New',monospace" font-size="24" letter-spacing="3">IA / AUTOMAÇÃO / SOFTWARE</text>
+  <g fill="#f4f4f4">
+    <path d="M977 126l35 24-35 24v-10l20-14-20-14z"/>
+    <rect x="1040" y="165" width="43" height="8"/>
+    <rect x="70" y="290" width="40" height="6"/>
+    <rect x="1219" y="47" width="13" height="13"/>
+  </g>
+</svg>
